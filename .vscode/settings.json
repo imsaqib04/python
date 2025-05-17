@@ -1,4 +1,10 @@
 {
     "editor.suggestOnTriggerCharacters": false,
-    "editor.suggest.selectionMode": "never"
+    "editor.suggest.selectionMode": "always",
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "emmet.useInlineCompletions": true
 }
