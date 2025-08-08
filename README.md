@@ -1,8 +1,7 @@
 ````markdown
 # 🐍 Python Udemy - Krish Naik Course
 
-This repository contains all the Python practice code, exercises, and mini-projects completed while following **Krish Naik's Python Udemy Course**.  
-It is organized by topic for easy reference and learning.
+This repository contains my personal learning materials, code, and projects from a Python course. The content is organized by topic to reflect the structure of the course.
 
 ---
 
